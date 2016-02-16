@@ -1,7 +1,7 @@
 # HexMech
 
 ## Project Members
-
+Matthew Kaplan maka0945
 ## Description
 
 ## Vision Statement
