@@ -17,8 +17,6 @@ User & Functional Requirements:
 As a player, I want to pick a mech so I can play a game.  
 As a player, I want to invite other players to join my game so I can crush them.  
 As a player, I want to setup a game so I can play.  
-As a player I want to build my mech so I can use it.  
-As a player I want to save my mech so I can use it again.  
 As a player I want to name my mech so I can remember it.  
 As a player I want a leaderboard so I can show off to my friends.  
 As a player I want to sign up for an account so I can save my win history.  
