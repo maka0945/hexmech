@@ -155,8 +155,8 @@ back and front ends.
 
 ## Project Plan
 
-Major deliverable: Functional HexMech browser game.
-Methodology: Our four-person team will split into two pairs that work closely together. One pair will focus on the backend and one will focus on frontend. The frontend team will also handle the graphics.
-As soon as a playable version is created, the team will test it by playing it with each other and by playing it with others. Feedback will be collected to help refine requirements and discover errors.
-Subsequent testing will be done at least once a week to ensure new features and bugfixes are not detrimental.
+Major deliverable: Functional HexMech browser game.  
+Methodology: Our four-person team will split into two pairs that work closely together. One pair will focus on the backend and one will focus on frontend. The frontend team will also handle the graphics.  
+As soon as a playable version is created, the team will test it by playing it with each other and by playing it with others.   Feedback will be collected to help refine requirements and discover errors.  
+Subsequent testing will be done at least once a week to ensure new features and bugfixes are not detrimental.  
 The team will use Trello to track user stories.
