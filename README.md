@@ -98,5 +98,8 @@ Don't crash.
 ## Methodology
 
 ## Project Tracking Software
+* Our team will be using Trello as our Project Tracking Software.
+* Link
+  * https://trello.com/hexmech
 
 ## Project Plan
