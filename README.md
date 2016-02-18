@@ -1,10 +1,17 @@
 # HexMech
 
 ## Project Members
-Matthew Kaplan maka0945
-Max Lookabaugh Github:MaxLookabaugh
+Matthew Kaplan <github:maka0945>
+Max Lookabaugh <github:MaxLookabaugh>
+Michael R. Shannon <github:mrshannon>
+
 ## Description
-BattleTech is a turn-based strategy board game in which players create personalized BattleMechs (mechanized suits of armor represented by figurines) and have them engage in combat on on the game board. We hope to create a digital version of the game in which users can play against eachother and enjoy all of the same features as the board game. 
+BattleTech is a turn-based strategy board game in which players command 1 or
+more BattleMechs (mechanized suits of armor represented by figurines) in
+combat on a game board.  We hope to create an online version of the game in
+which users can play against each other and enjoy all of the same features as
+the introductory rules to the board game.
+
 ## Vision Statement
 
 Crushing metal with every commit.
