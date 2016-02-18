@@ -95,7 +95,13 @@ Non-functional Requirements:
 Relay game state to everyone within 1 second.
 Don't crash.
 
+
 ## Methodology
+
+We will be using the Agile methodology when applicable and only dipping into
+a Waterfall like approach when a common design must be established between the
+back and front ends.
+
 
 ## Project Tracking Software
 * Our team will be using Trello as our Project Tracking Software.
