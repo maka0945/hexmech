@@ -14,7 +14,7 @@ the introductory rules to the board game.
 
 ## Vision Statement
 
-Crushing metal with every commit.
+> Crushing metal with every commit.
 
 ## Motivation
 
