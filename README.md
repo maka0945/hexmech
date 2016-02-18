@@ -2,12 +2,12 @@
 
 ## Project Members
 
-| Name               | Github Username |
-|:------------------ |:--------------- |
-| Matthew Kaplan     | @maka0945       |
-| Max Lookabaugh     | @MaxLookabaugh  |
-| Michael R. Shannon | @mrshannon      |
-| Mack Colwell       | @MColwell       |
+| Name               | Github                                             |
+|:------------------ |:-------------------------------------------------- |
+| Matthew Kaplan     | [@maka0945](https://github.com/maka0945)           |
+| Max Lookabaugh     | [@MaxLookabaugh](https://github.com/MaxLookabaugh) |
+| Michael R. Shannon | [@mrshannon](https://github.com/mrshannon)         |
+| Mack Colwell       | [@MColwell](https://github.com/MColwell)           |
 
 
 ## Description
