@@ -2,8 +2,9 @@
 
 ## Project Members
 Matthew Kaplan maka0945
+Max Lookabaugh Github:MaxLookabaugh
 ## Description
-
+BattleTech is a turn-based strategy board game in which players create personalized BattleMechs (mechanized suits of armor represented by figurines) and have them engage in combat on on the game board. We hope to create a digital version of the game in which users can play against eachother and enjoy all of the same features as the board game. 
 ## Vision Statement
 
 Crushing metal with every commit.
@@ -11,7 +12,8 @@ Crushing metal with every commit.
 ## Motivation
 
 ## Risks
-
+.JavaScript and Python are relatively new languages to some members, and the team is new to working together
+.Mitigation: We will need to get up to speed quickly with newer languages and work together to ensure that the code is efficient.  
 ## Requirements
 User & Functional Requirements:  
 As a player, I want to pick a mech so I can play a game.  
