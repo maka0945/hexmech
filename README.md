@@ -18,9 +18,34 @@ the introductory rules to the board game.
 
 ## Motivation
 
+
 ## Risks
-.JavaScript and Python are relatively new languages to some members, and the team is new to working together
-.Mitigation: We will need to get up to speed quickly with newer languages and work together to ensure that the code is efficient.  
+* JavaScript (both client side and node.js) are relatively new to all members
+  of the team.
+* Most of the team has never written a game before.
+* The team has never worked together before.
+* We have few times that everyone is free each week.
+* BattleTech is relatively new to all of our members.
+* We don't have any experience with rendering graphics in HTML5.
+* The hex grid required by BattleTech poses some difficulty in storage and
+  calculations.
+* Not completing an entire set of rules.
+
+### Mitigation
+* A running start with the rules of BattleTech is helping with understanding
+  the features needed.  Also, one of our members knows many fans of BattleTech
+  who can answer questions related to the game rules themselves.
+* Using industry standard libraries such as jQuery, ExpressJS, socket.io, and
+  possibly pixi.js should make the transition to JavaScript easier.
+* The article at [Hexegon Grids](http://www.redblobgames.com/grids/hexagons)
+  should provide ample documentation on how to store and perform calculations on
+  hex grids.
+* There are many rules we can cut out for time if we need to and still have
+  a functional product.  This is one of the main reasons we have chosen the
+  Agile project methodology.
+* We do have some experience in graphics design and programming.
+
+
 ## Requirements
 User & Functional Requirements:  
 As a player, I want to pick a mech so I can play a game.  
