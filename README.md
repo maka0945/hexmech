@@ -1,9 +1,13 @@
 # HexMech
 
 ## Project Members
-Matthew Kaplan <github:maka0945>
-Max Lookabaugh <github:MaxLookabaugh>
-Michael R. Shannon <github:mrshannon>
+
+| Name               | Github Username |
+|:------------------ |:--------------- |
+| Matthew Kaplan     | @maka0945       |
+| Max Lookabaugh     | @MaxLookabaugh  |
+| Michael R. Shannon | @mrshannon      |
+| Mack Colwell       | @MColwell       |
 
 
 ## Description
