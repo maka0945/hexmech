@@ -75,43 +75,43 @@ BattleTech more accessible by:
 | ID   | Requirements | Type | Agile Size |
 | ---- |:------------ | ---- | ---------- |
 | 0001 | As a player, I want to pick a Mech so I can play a game. | User | 1 |
-| 0002 | As a player, I want to invite other player to join my game so I can crush them. | User | 13 |
-| 0003 | As a player, I want to setup a game so I can play. | Functional | 8 |
-| 0004 | As a player, I want to select a map to play on. | User | 13 |
-| 0005 | As a player, I want a leaderboard for bragging wrights. | User | 21 |
-| 0006 | As a player, I want to sign up for an account so my game history can be saved. | Non-functional | 1 |
-| 0007 | As a lonely player, I want to get matched with other players so I can play without friends. | User | 13 |
-| 0008 | As a player, I want to shoot other Mechs so I can kill them. | User | 1 |
-| 0009 | As a player, I want to move my Mech so I can get within range of other Mechs. | Functional | 2 |
-| 0010 | As a player, I want to pound other Mechs with powerful melee attacks. | User | 3 |
-| 0011 | As a developer, I want a working sever so I can serve the game and write the backend. | Non-functional | 1 |
-| 0012 | As a player, I want to fancy graphics to hold my interest. | User | 21 |
-| 0013 | As a player, I want explosions so I can feel like a cool person. | User | 21 |
-| 0014 | As a developer, I want a cool 404 page so I can show it off. | Functional | 13 |
-| 0015 | As a player, I want tooltips that teach me how to play so I can learn without reading a rulebook. | User | 2 |
-| 0016 | As a player, I want to know if my opponent is AFKing or not so I don't waste my time. | User | 5 |
-| 0017 | As a player, I want terrain so I can hide behind it. | User | 3 |
-| 0018 | As a player, I want the initiative phase to decide who goes first so I a turn can start. | Functional | 8 |
-| 0019 | As a player, I want to be able to have my Mech walk, run, or jump. | Functional | 2 |
-| 0020 | As a player, I want to be able to change the direction my Mech is facing. | Functional | 3 |
-| 0021 | As a player, I want to have the falling rules to make the game more challenging. | User | 13 |
-| 0022 | As a player, I want to make my Mech go prone so I can hide from enemies. | Functional | 8 |
-| 0023 | As a player, I want to be able to stand my Mech up after falling. | Functional | 2 |
-| 0024 | As a player, I want my MechWarrior to be able to take damage to make the game more interesting. | User | 13 |
-| 0025 | As a player, I want the piloting skill role system from BattleTech so I can avoid falling. | Functional | 5 |
-| 0026 | As a player I want a line of sight calculator so I can tell if I will be able to aim at my target. | User | 21 |
-| 0027 | As a player, I want terrain to interfere with line of sight to make the game more interesting. | User | 1 |
-| 0028 | As a player, I want to be able to torso twist my Mech so I can shoot other Mechs to the side of mine. | Functional | 2 |
-| 0029 | As a developer, I want a library I can use to deal with indexing, distance calculation, and line of sight calculation on a hex grid so I can write the game logic. | Non-functional | 8 |
-| 0030 | As a player, I want to be able to aim my weapons individually so I can hit more than one target. | User | 3 |
-| 0031 | As a player, I want the BattleTech heat system so I have a reason not to fire all my weapons. | Functional | 2 |
-| 0032 | As a player, I want armor to take damage when hit so I can hit the internal structure. | Functional | 5 |
-| 0033 | As a player, I want internal structure damage so I can destroy the enemy. | Functional | 2 |
-| 0034 | As a player I want the critical damage system so I destroy my enemies weapons and equipment. | User | 13 |
-| 0035 | As a player, I want to be able to have my Mech punch another Mech to do more damage. | User | 2 |
-| 0036 | As a player, I want to be able to have my Mech kick another Mech to do more damage. | User | 2 |
-| 0037 | As a player, I want to perform a Death from Above attach so I can deal damage while looking cool. | User | 3 |
-| 0038 | As a player, I want the push mechanic so I can push my enemy off of a cliff. | Functional | 1 |
+| 0002 | As a player, I want to invite other player to join my game so I can crush them. | | |
+| 0003 | As a player, I want to setup a game so I can play. | Functional | |
+| 0004 | As a player, I want to select a map to play on. | | |
+| 0005 | As a player, I want a leaderboard for bragging wrights. | | |
+| 0006 | As a player, I want to sign up for an account so my game history can be saved. | | |
+| 0007 | As a lonely player, I want to get matched with other players so I can play without friends. | | |
+| 0008 | As a player, I want to shoot other Mechs so I can kill them. | | |
+| 0009 | As a player, I want to move my Mech so I can get within range of other Mechs. | | |
+| 0010 | As a player, I want to pound other Mechs with powerful melee attacks. | | |
+| 0011 | As a developer, I want a working sever so I can serve the game and write the backend. | | |
+| 0012 | As a player, I want to fancy graphics to hold my interest. | | |
+| 0013 | As a player, I want explosions so I can feel like a cool person. | User | |
+| 0014 | As a developer, I want a cool 404 page so I can show it off. | | |
+| 0015 | As a player, I want tooltips that teach me how to play so I can learn without reading a rulebook. | | |
+| 0016 | As a player, I want to know if my opponent is AFKing or not so I don't waste my time. | | |
+| 0017 | As a player, I want terrain so I can hide behind it. | | |
+| 0018 | As a player, I want the initiative phase to decide who goes first so I a turn can start. | | |
+| 0019 | As a player, I want to be able to have my Mech walk, run, or jump. | | |
+| 0020 | As a player, I want to be able to change the direction my Mech is facing. | | |
+| 0021 | As a player, I want to have the falling rules to make the game more challenging. | | |
+| 0022 | As a player, I want to make my Mech go prone so I can hide from enemies. | | |
+| 0023 | As a player, I want to be able to stand my Mech up after falling. | | |
+| 0024 | As a player, I want my MechWarrior to be able to take damage to make the game more interesting. | | |
+| 0025 | As a player, I want the piloting skill role system from BattleTech so I can avoid falling. | | |
+| 0026 | As a player I want a line of sight calculator so I can tell if I will be able to aim at my target. | | |
+| 0027 | As a player, I want terrain to interfere with line of sight to make the game more interesting. | | |
+| 0028 | As a player, I want to be able to torso twist my Mech so I can shoot other Mechs to the side of mine. | | |
+| 0029 | As a developer, I want a library I can use to deal with indexing, distance calculation, and line of sight calculation on a hex grid so I can write the game logic. | | |
+| 0030 | As a player, I want to be able to aim my weapons individually so I can hit more than one target. | | |
+| 0031 | As a player, I want the BattleTech heat system so I have a reason not to fire all my weapons. | | |
+| 0032 | As a player, I want armor to take damage when hit so I can hit the internal structure. | | |
+| 0033 | As a player, I want internal structure damage so I can destroy the enemy. | | |
+| 0034 | As a player I want the critical damage system so I destroy my enemies weapons and equipment. | | |
+| 0035 | As a player, I want to be able to have my Mech punch another Mech to do more damage. | | |
+| 0036 | As a player, I want to be able to have my Mech kick another Mech to do more damage. | | |
+| 0037 | As a player, I want to perform a Death from Above attach so I can deal damage while looking cool. | | |
+| 0038 | As a player, I want the push mechanic so I can push my enemy off of a cliff. |  | |
 | 0039 | Relay game state to each player in a timely fasion. | Non-functional | N/A |
 | 0040 | Have proper error handling. | Non-functional | N/A |
 
@@ -139,3 +139,4 @@ user stories.
 
 ## Project Plan
 
+https://www.dropbox.com/home?preview=project.png
