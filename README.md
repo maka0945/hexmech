@@ -139,3 +139,8 @@ user stories.
 
 ## Project Plan
 
+![Trello (page 1)](https://raw.github.com/CSCI3308-4M/hexmech/master/assets/screen1.jpg)
+![Trello (page 2)](https://raw.github.com/CSCI3308-4M/hexmech/master/assets/screen2.jpg)
+![Trello (page 3)](https://raw.github.com/CSCI3308-4M/hexmech/master/assets/screen3.jpg)
+![Trello (page 4)](https://raw.github.com/CSCI3308-4M/hexmech/master/assets/screen4.jpg)
+
