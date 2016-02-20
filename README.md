@@ -73,7 +73,7 @@ BattleTech more accessible by:
 ## Requirements
 
 | ID   | Requirements | Type | Agile Size |
-| ---- |:------------ | ---- | ---------- |
+| ---- |:------------ | ---- | ----------:|
 | 0001 | As a player, I want to pick a Mech so I can play a game. | User | 1 |
 | 0002 | As a player, I want to invite other player to join my game so I can crush them. | User | 13 |
 | 0003 | As a player, I want to setup a game so I can play. | Functional | 8 |
